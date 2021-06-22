@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Ilya Kozak.
 
-https://ilyakozak.github.io/
+🚀 https://ilyakozak.github.io/
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=IlyaKozak&theme=radical&show_icons=true&count_private=true)
 
