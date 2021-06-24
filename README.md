@@ -16,7 +16,7 @@
 
 <h3>Backend Frameworks:</h3>
 <p>
-  <image src="https://expressjs.com/images/express-facebook-share.png" width="150" />
+  <image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprYdebuGjpDHnU5L4QZOI5ZrqyWmHIRjSBdq5ABi5Z_gcdnP_AgRtLEAsdwuokyhCGtU" width="50" />
   <image src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="50" />
 </p>
 
