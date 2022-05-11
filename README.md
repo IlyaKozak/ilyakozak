@@ -41,6 +41,7 @@
   <image src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50" />
   <image src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" />
   <image src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" />
+  <image src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain.svg" width="50" />
   <image src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" width="50" />
 </p>
 
